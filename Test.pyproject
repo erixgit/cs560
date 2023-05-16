@@ -1,0 +1,3 @@
+{
+    "files": ["ui_form.py","x12.py","widget.py","form.ui","csv.py"]
+}
